@@ -18,6 +18,8 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.calculator_compose.ui.theme.CalculatorcomposeTheme
 import com.example.calculator_compose.ui.theme.MediumGray
 
+
+// Git test
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
