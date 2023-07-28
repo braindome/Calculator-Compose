@@ -44,7 +44,7 @@ fun Calculator(
                 fontWeight = FontWeight.Light,
                 fontSize = 80.sp,
                 color = Color.White,
-                maxLines = 2
+                maxLines = 1
             )
             Row(
                 modifier = Modifier.fillMaxWidth(),
