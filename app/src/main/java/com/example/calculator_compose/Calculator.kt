@@ -22,7 +22,7 @@ import com.example.calculator_compose.ui.theme.LightGray
 import com.example.calculator_compose.ui.theme.Orange
 
 
-// Github test
+// Github test 2
 @Composable
 fun Calculator(
     state: CalculatorState,
